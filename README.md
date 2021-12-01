@@ -10,7 +10,14 @@
 原模板右页脚是章节，但感觉有点不喜欢，如果能放个合适的logo就好了。
 正巧今天（2021·12·1）阿贝多活动剧情的小派蒙弔图感觉超级乐.jpg，皖鸠子带佬又光速出图，感觉很配，就拿来放右页脚了。
 
+<img src="https://github.com/Kaede0614/typoraimage/blob/main/github-latex-1.png" alt="图片替换文本" width="500" height="313" align="bottom" />
+
+
+
+图片1
 ![image](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-1.png)
+
+图片2
 ![avatar](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-2.png)
 ![avatar](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-3.png)
 ![avatar](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-4.png)
