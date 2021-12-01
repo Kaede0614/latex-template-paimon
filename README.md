@@ -10,7 +10,7 @@
 原模板右页脚是章节，但感觉有点不喜欢，如果能放个合适的logo就好了。
 正巧今天（2021·12·1）阿贝多活动剧情的小派蒙弔图感觉超级乐.jpg，皖鸠子带佬又光速出图，感觉很配，就拿来放右页脚了。
 
-![avatar](https://drive.google.com/file/d/10M4bW81PwcMGGAPyTZ3CEV0FNn-CXHdX/view?usp=sharing)
+![avatar](https://www.jianguoyun.com/p/DVNN7XcQp9n_CRi2-p0E)
 ![avatar](https://drive.google.com/file/d/10NNkmacgDo0ZeqV5nr9IfuGANLVIrD3I/view?usp=sharing)
 ![avatar](https://drive.google.com/file/d/10Pb86KMugvbuv2A-qcp3NWm_CaPszcyS/view?usp=sharing)
 ![avatar](https://drive.google.com/file/d/10W7d4LXBWoFtPs0TCq-HNMEaF9cOSGjJ/view?usp=sharing)
