@@ -11,6 +11,6 @@
 正巧今天（2021·12·1）阿贝多活动剧情的小派蒙弔图感觉超级乐.jpg，皖鸠子带佬又光速出图，感觉很配，就拿来放右页脚了。
 
 ![image](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-1.png)
-![avatar](https://drive.google.com/file/d/10NNkmacgDo0ZeqV5nr9IfuGANLVIrD3I/view?usp=sharing)
-![avatar](https://drive.google.com/file/d/10Pb86KMugvbuv2A-qcp3NWm_CaPszcyS/view?usp=sharing)
-![avatar](https://drive.google.com/file/d/10W7d4LXBWoFtPs0TCq-HNMEaF9cOSGjJ/view?usp=sharing)
+![avatar](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-2.png)
+![avatar](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-3.png)
+![avatar](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-4.png)
