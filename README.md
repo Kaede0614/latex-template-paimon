@@ -15,8 +15,8 @@
   <img src="https://github.com/Kaede0614/typoraimage/blob/main/github-latex-2.png" width="500" /> 
 </p>
 
+<p float="left">
+  <img src="https://github.com/Kaede0614/typoraimage/blob/main/github-latex-3.png" width="500" />
+  <img src="https://github.com/Kaede0614/typoraimage/blob/main/github-latex-4.png" width="500" /> 
+</p>
 
-
-
-![avatar](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-3.png)
-![avatar](https://github.com/Kaede0614/typoraimage/blob/main/github-latex-4.png)
